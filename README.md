@@ -7,7 +7,7 @@ just pass your python code into the "pandas_code" key in the input event json of
 ```
 if you require to use double quotes in the query then it must be escaped while its being passed into the event json
 
-# Example quries
+# Example queries
 fetch count of records present in example csv
 
 **Input Code**
